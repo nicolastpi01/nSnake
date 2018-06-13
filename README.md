@@ -190,3 +190,12 @@ I raise my hat to:
 [contrib]:     https://github.com/alexdantas/nSnake/graphs/contributors
 [level_wiki]:  https://github.com/alexdantas/nSnake/wiki/How-to-create-your-own-levels
 
+
+## For translate in Spanish-Argentinian
+
+# Please, execute the next commands:
+
+"make"
+"sudo make install"
+"sudo make run" 
+that's it!
