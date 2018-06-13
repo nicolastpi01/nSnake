@@ -141,6 +141,8 @@ install: all
 	$(MUTE)install -pdm755 $(DESTDIR)$(DESKTOPDIR)
 	$(MUTE)install -pm644 misc/nsnake.desktop $(DESTDIR)$(DESKTOPDIR)
 
+	cp po/nsnake.mo /usr/share/locale/es_AR/LC_MESSAGES/
+
 	# $(PACKAGE) successfuly installed!
 
 uninstall:
